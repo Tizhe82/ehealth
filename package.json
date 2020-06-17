@@ -1,0 +1,19 @@
+{
+  "name": "ehealth",
+  "version": "1.0.0",
+  "description": "ehealth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tizhe82/ehealth.git"
+  },
+  "author": "Tizhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tizhe82/ehealth/issues"
+  },
+  "homepage": "https://github.com/Tizhe82/ehealth#readme"
+}
